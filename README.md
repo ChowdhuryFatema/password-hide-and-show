@@ -5,5 +5,5 @@ Author - Fatema Chowdhury
 https://chowdhuryfatema.github.io/password-hide-and-show/
 ## Technologies
 -Html5 </br>
--Row CSS </br>
+-Raw CSS </br>
 -JavaScript 
